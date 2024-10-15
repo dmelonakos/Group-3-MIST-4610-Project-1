@@ -52,3 +52,5 @@ Description: A gym wants to keep track of how much members are spending of membe
 ## Database Information
 Database Name: ns_4610Fa24Group3
 
+Each query listed is bookmarked through stored procedures according to the format TP_Qx
+

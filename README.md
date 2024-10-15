@@ -36,7 +36,9 @@ Query 4 lists the first name and last name of members not currently enrolled in 
 Description: A gym wants to promote it's classes to maximize revenue and member satisfaction. We would like to promote our classes to members not currently enrolled in any classes so this query will help give us a list of members we can market our advertising towards.
 
 ### Query 5
-
+Query 5 lists the average payment amount for each gym
+![image](https://github.com/user-attachments/assets/e0d15219-49e5-4c7a-9278-3c95def424e5)
+Description: A gym wants to keep track of how much members are spending of memberships at each gym on average. This query gives us that result so that we can advertise at gyms with lower averages to maximize profits. It can also tell us which gyms members perfer to pay a premium at and which ones members choose the basic membership.
 ### Query 6
 
 ### Query 7

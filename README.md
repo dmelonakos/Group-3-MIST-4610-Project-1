@@ -35,6 +35,7 @@ Finally, the Equipment entity is connected to the MaintenanceRequest entity on a
 ![ssGymDMFinal](https://github.com/user-attachments/assets/09d25c73-b1ee-492c-a994-9e7c49037c6f)
 
 ## Data Dictionary
+![image](https://github.com/user-attachments/assets/d54f827f-ad2b-4667-b70b-dcc96f20db97)
 
 ## Queries
 ### Query 1

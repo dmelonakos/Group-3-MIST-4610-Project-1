@@ -28,6 +28,7 @@ ssGymDMFinal.png
 ### Query 4
 Query 4 lists the first name and last name of members not currently enrolled in any classes
 ![image](https://github.com/user-attachments/assets/773a4ed5-fc43-4066-b196-01d69b78f041)
+Description: A gym wants to promote it's classes to maximize revenue and member satisfaction. We would like to promote our classes to members not currently enrolled in any classes so this query will help give us a list of members we can market our advertising towards.
 
 ### Query 5
 

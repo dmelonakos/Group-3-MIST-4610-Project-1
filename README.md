@@ -40,7 +40,7 @@ Finally, the Equipment entity is connected to the MaintenanceRequest entity on a
 ### Query 1
 
 ### Query 2
-Query 2 lists the Total Members and Total Equipment at each Gym that has more member than equipment
+Query 2 lists the Total Members and Total Equipment at each Gym that has more members than pieces of equipment
 ![image](https://github.com/user-attachments/assets/11db0695-14ec-4375-807c-9df70e80e7ad)
 Description: It's important for a gym to have more pieces of equipment than members so that members are not having to stand around and wait for equipment to become available. This query outputs the gyms that we need to add more pieces of equipment to so that we accommodate the number of members there.
 ### Query 3

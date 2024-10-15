@@ -5,7 +5,7 @@ Cooper Waters [@coopw07](https://github.com/coopw07)
 
 David Melonakos [@dmelonakos](https://github.com/dmelonakos)
 
-Noah Hirschfield
+Noah Hirschfield [@nbh14975](https://github.com/nbh14975)
 
 Jacob Weiszer [@JacobWeisz](https://github.com/JacobWeisz)
 

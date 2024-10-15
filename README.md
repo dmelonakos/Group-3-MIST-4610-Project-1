@@ -26,6 +26,8 @@ The task that we decided to focus on is the general workings of a gym franchise,
 ### Query 3
 
 ### Query 4
+Query 4 lists the first name and last name of members not currently enrolled in any classes
+![image](https://github.com/user-attachments/assets/773a4ed5-fc43-4066-b196-01d69b78f041)
 
 ### Query 5
 

@@ -48,3 +48,7 @@ Description: A gym wants to keep track of how much members are spending of membe
 ### Query 9
 
 ### Query 10
+
+## Database Information
+Database Name: ns_4610Fa24Group3
+

@@ -3,7 +3,7 @@
 ## Team Members
 Cooper Waters [@coopw07](https://github.com/coopw07)
 
-David Melonakos
+David Melonakos [@dmelonakos](https://github.com/dmelonakos)
 
 Noah Hirschfield
 

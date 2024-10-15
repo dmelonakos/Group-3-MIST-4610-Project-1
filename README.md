@@ -41,6 +41,9 @@ Finally, the Equipment entity is connected to the MaintenanceRequest entity on a
 ![image](https://github.com/user-attachments/assets/d6b707b2-9424-465d-811f-d08792d81634)
 ![image](https://github.com/user-attachments/assets/e98d24bd-3f28-499a-8377-5403799fd74d)
 ![image](https://github.com/user-attachments/assets/044574c5-bc76-4427-afbc-b63f5c3fc540)
+![image](https://github.com/user-attachments/assets/e873da4f-9298-409d-b049-f1825b31370b)
+![image](https://github.com/user-attachments/assets/4ae141dd-8409-4850-80b0-d55142dceae8)
+![image](https://github.com/user-attachments/assets/72049e84-360c-4dc3-9da5-41f4dd73bc3c)
 
 ## Queries
 ### Query 1

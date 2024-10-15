@@ -38,7 +38,9 @@ Finally, the Equipment entity is connected to the MaintenanceRequest entity on a
 
 ## Queries
 ### Query 1
-
+Query 1 lists the names of gyms that have less than four employees
+![image](https://github.com/user-attachments/assets/5e908fc7-2c75-4af6-afbd-29773d11c438)
+Description: In order for gyms to be able to meet the demand of its members, we need each gym to have at least four employees. This query lists the number of gyms that don't so that we know which gyms need to hire more employees so that no gym is overwhlemed.
 ### Query 2
 Query 2 lists the Total Members and Total Equipment at each Gym that has more members than pieces of equipment
 ![image](https://github.com/user-attachments/assets/11db0695-14ec-4375-807c-9df70e80e7ad)

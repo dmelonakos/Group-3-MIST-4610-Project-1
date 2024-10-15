@@ -7,7 +7,7 @@ David Melonakos [@dmelonakos](https://github.com/dmelonakos)
 
 Noah Hirschfield
 
-Jacob Weiszer
+Jacob Weiszer [@JacobWeisz](https://github.com/JacobWeisz)
 
 Coleman Willis
 

@@ -9,7 +9,7 @@ Noah Hirschfield [@nbh14975](https://github.com/nbh14975)
 
 Jacob Weiszer [@JacobWeisz](https://github.com/JacobWeisz)
 
-Coleman Willis
+Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 
 ## Problem Description
 

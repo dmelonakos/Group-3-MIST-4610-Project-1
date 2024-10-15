@@ -65,7 +65,7 @@ Query 5 lists the average payment amount for each gym
 ![image](https://github.com/user-attachments/assets/e0d15219-49e5-4c7a-9278-3c95def424e5)                                                                         
 Description: A gym wants to keep track of how much members are spending of memberships at each gym on average. This query gives us that result so that we can advertise at gyms with lower averages to maximize profits. It can also tell us which gyms members perfer to pay a premium at and which ones members choose the basic membership.
 ### Query 6
-Query 6 lists the Day of the week and the total number of members regsistered for the class where the class category is "yoga"
+Query 6 lists the day of the week and the total number of members regsistered for the class where the class category is "yoga"
 ![image](https://github.com/user-attachments/assets/f20d0cb8-bcf7-4d94-90e3-f95cfe286950)
 Description: A gym wants see what day of the week it should add another yoga class for based on how many members are already registered for yoga class. A gym doesn't need to add another class on a Tuesday if Tuesdays are not popular among yoga class enrollees. This query gives us the total number of members registered by day of the week so that we can make an informed decesion about what day of the week the next yoga class should be taught on.
 ### Query 7

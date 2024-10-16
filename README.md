@@ -92,5 +92,5 @@ Description: This query helps our gym find which memberships are most popular an
 ## Database Information
 Database Name: ns_4610Fa24Group3
 
-Each query listed is bookmarked through stored procedures according to the format TP_Qx
+Each query listed is bookmarked through stored procedures according to the format CREATE PROCEDURE TP_Q1() and can be called using CALL TP_Q1()
 

@@ -87,6 +87,7 @@ Description: This query helps our gym find which memberships are most popular an
 
 
 ### Query 10
+![image](https://github.com/user-attachments/assets/326bcfb6-6233-44e0-aceb-1b6b2c7751f7)
 
 ## Database Information
 Database Name: ns_4610Fa24Group3

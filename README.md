@@ -83,6 +83,7 @@ Query 8 lists the count of each membership type
 ![image](https://github.com/user-attachments/assets/9b88a85b-5c66-464b-9c47-2cbaf1cf8bac)
 Description: This query helps our gym find which memberships are most popular and from there they can investigate why a membership is so popular whether that be the price of the membership or the amenities associated with the membership.
 ### Query 9
+![image](https://github.com/user-attachments/assets/f12796b0-5d6e-4701-86d2-8c85f1026bf4)
 
 ### Query 10
 

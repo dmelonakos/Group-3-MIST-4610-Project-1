@@ -87,7 +87,9 @@ Description: This query helps our gym find which memberships are most popular an
 
 
 ### Query 10
-
+Query 10 lists the gym name, equipment number, equipment name, and the date the equipment was bought if the that piece of equipment has never had routine maintenance conducted on it
+![image](https://github.com/user-attachments/assets/22267cd6-211a-4669-a9f3-57d477508a78)
+Description: Our company wants to stay up to date on the quality of our gym equipment so this query gives us a list of the pieces of equipment that have not had any routine maintenance done on it. By looking at the date the equipment was bought, we can send maintenance people to check older pieces of equipment to make sure they are still in good condition for use. 
 
 ## Database Information
 Database Name: ns_4610Fa24Group3

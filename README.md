@@ -12,7 +12,7 @@ Jacob Weiszer [@JacobWeisz](https://github.com/JacobWeisz)
 Coleman Willis [@Chipolman10](https://github.com/Chipolman10)
 
 ## Problem Description
-The task that we decided to focus on is the general workings of a gym franchise, MaxFitness. The model is centered on the Gym entity. This represents each physical gym location the company owns and operates. The gym includes different equipment, classes, and personal training sessions that it offers to its members. We want to accurately model these relationships and create data for the model, to populate the entities and attributes of our gym. Through the use of the data model, the gym can now be more efficient in creating new business plans to favor certain consumer trends, keeping track of members and membership types, and displaying relationships between different entities of the gym.
+The task is to model the general workings of a gym franchise, MaxFitness. The model is centered on the Gym entity which represents each physical gym location that the company owns and operates. Each gym includes equipment, classes, and personal training sessions to its members. For this project, we have to modeled the various relationships between these and other entities and have populated with sample data for demonstration purposes. Through the use of the data model, our gym can now be more efficient in identifying consumer trends, keeping track of importance pieces of information, and displaying relationships between the different entities of the gym. This project contains an overview of the data model, a data dictionary, and a list of sample queries that would be valuable for our franchise in making decisions.
 
 ## Data Model and Explanation
 Explanation of the Data Model:

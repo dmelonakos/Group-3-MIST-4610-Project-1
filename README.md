@@ -23,7 +23,7 @@ The Employee entity is then connected to the Classes entity on a 1-to-many relat
 
 Backtracking a little bit now, the Employee entity is also connected to the PTSessions (PT = Personal Training) entity on a 1-to-many relationship because an employee can teach many personal training sessions, but a personal training session can only be taught by one employee. Similar to the Classes entity, the PTSessions entity contains information on the PT Type, PT description, and session scheduled date, and it records individual instances of a PT Session. Then, the PTSessions entity is connected to the PTRegistration entity on a 1-to-1 relationship because a PT session can only be registered for 1 time. The PTRegistration entity is then connected to the Members entity on a 1-to-many relationship because a member may register for multiple PTSessions, but a registration can only apply to one member. Additionally, regarding the PTRegistration entity, it contains the registration date, along with the member ID and PT session ID as foreign keys.
 
-Next, the Member entity contains information on each of our members including their names, phone numbers, and addresses. The Member entity is connected to the Gym entity on a 1-to-many relationship because a gym can have many members, but a member can belong to only one gym (in this hypothetical). Additionally, the Member entity is connected to the Membership entity on a 1-to-many relationship because a specific membership can apply to many members, but a member can only have one membership. To clarify, the Membership entity contains information about our different membership types (gold, silver, bronze, etc.) along with their prices and benefits included. 
+Next, the Member entity contains information on each of our members including their names, phone numbers, and addresses. The Member entity is connected to the Gym entity on a 1-to-many relationship because a gym can have many members, but a member can belong to only one gym (in this hypothetical). Additionally, the Member entity is connected to the Membership entity on a 1-to-many relationship because a specific membership can apply to many members, but a member can only have one membership. To clarify, the Membership entity contains information about our different membership types (gold, black, white, etc.) along with their prices and benefits included. 
 
 All members also make payments. This is represented by a 1-to-many relationship between the Member and Payment entities because a member can make multiple payments, but a payment can only apply to one member. The Payment entity contains information on the payment amount, date, and method.
 
@@ -85,6 +85,7 @@ Description: This query helps our gym find which memberships are most popular an
 ### Query 9
 Query 9 lists the member first and last name and their total payments, but only if those members have a total payment value greater than the average total payment value by member
 ![image](https://github.com/user-attachments/assets/2fc87119-b767-47fa-b3a2-36fbf3e55758)
+
 Description: We are interested in providing a discount to our most loyal members and want to know which members have spent the most money with us so we can apply that discount properly.
 
 ### Query 10

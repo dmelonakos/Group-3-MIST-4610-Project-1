@@ -61,6 +61,7 @@ Description: It's important for a gym to have more pieces of equipment than memb
 Query 3 lists the employee first name, employee last name and count of classIDs for the Employees at our gyms that are teaching three or more classes
 
 ![image](https://github.com/user-attachments/assets/e2d84bfe-7579-40dc-bcfe-d794448c7852)
+
 Description: Our company wants to award any employees that go above and beyond their duties by teaching three or more classes. These employees will be recognized and recieve a raise. It's important to recognize our employees hard work to minimize employee turnover.
 ### Query 4
 Query 4 lists the first name and last name of members not currently enrolled in any classes

@@ -83,8 +83,9 @@ Query 8 lists the count of each membership type
 ![image](https://github.com/user-attachments/assets/9b88a85b-5c66-464b-9c47-2cbaf1cf8bac)
 Description: This query helps our gym find which memberships are most popular and from there they can investigate why a membership is so popular whether that be the price of the membership or the amenities associated with the membership.
 ### Query 9
+Query 9 lists the member first and last name and their total payments, but only if those members have a total payment value greater than the average total payment value by member
 ![image](https://github.com/user-attachments/assets/2fc87119-b767-47fa-b3a2-36fbf3e55758)
-
+Description: We are interested in providing a discount to our most loyal members and want to know which members have spent the most money with us so we can apply that discount properly.
 
 ### Query 10
 Query 10 lists the gym name, equipment number, equipment name, and the date the equipment was bought if the that piece of equipment has never had routine maintenance conducted on it

@@ -59,6 +59,7 @@ Query 2 lists the Total Members and Total Equipment at each Gym that has more me
 Description: It's important for a gym to have more pieces of equipment than members so that members are not having to stand around and wait for equipment to become available. This query outputs the gyms that we need to add more pieces of equipment to so that we accommodate the number of members there.
 ### Query 3
 Query 3 lists the employee first name, employee last name and count of classIDs for the Employees at our gyms that are teaching three or more classes
+
 ![image](https://github.com/user-attachments/assets/e2d84bfe-7579-40dc-bcfe-d794448c7852)
 Description: Our company wants to award any employees that go above and beyond their duties by teaching three or more classes. These employees will be recognized and recieve a raise. It's important to recognize our employees hard work to minimize employee turnover.
 ### Query 4

@@ -49,6 +49,8 @@ Finally, the Equipment entity is connected to the MaintenanceRequest entity on a
 
 
 ## Queries
+![image](https://github.com/user-attachments/assets/5c589c2f-8b9a-4273-bb1e-79ce5ef74ade)
+
 ### Query 1
 Query 1 lists the names of gyms that have less than four employees
 ![image](https://github.com/user-attachments/assets/5e908fc7-2c75-4af6-afbd-29773d11c438)

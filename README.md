@@ -93,8 +93,8 @@ Query 9 lists the member first and last name and their total payments, but only 
 Description: We are interested in providing a discount to our most loyal members and want to know which members have spent the most money with us so we can apply that discount properly.
 
 ### Query 10
-Query 10 lists the gym name, equipment number, equipment name, and the date the equipment was bought if the that piece of equipment has never had routine maintenance conducted on it. Results are ordered by date equipment was bought ascending.
-![image](https://github.com/user-attachments/assets/2bc84c49-9d72-40c3-ad15-1d97209ef875)
+Query 10 lists the gym name, equipment number, equipment name, and the date the equipment was bought if the that piece of equipment has never had routine maintenance conducted on it. Results are ordered by the date the equipment was bought.
+![image](https://github.com/user-attachments/assets/30310238-17fb-40d1-93b9-bc6e2d1ceba2)
 Description: Our company wants to stay up to date on the quality of our gym equipment so this query gives us a list of the pieces of equipment that have not had any routine maintenance done on it. By ordering the results with the oldest purchase dates at the top, we can send maintenance people to check older pieces of equipment to make sure they are still in good condition for use. 
 
 ## Database Information

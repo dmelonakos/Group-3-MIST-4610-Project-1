@@ -102,3 +102,5 @@ Database Name: ns_4610Fa24Group3
 
 Each query listed is bookmarked through stored procedures according to the format CREATE PROCEDURE TP_Qx() and can be called using CALL TP_Qx(), where x represents the query number
 
+Presentation link: https://docs.google.com/presentation/d/1jWo0U55Y4CZ7_7kkePaSFGbb5PypWdfSfYr5Vv_dg4Q/edit#slide=id.p
+
